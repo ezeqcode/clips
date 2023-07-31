@@ -1,0 +1,3 @@
+[submodule "tiktok-autouploader"]
+	path = tiktok-autouploader
+	url = https://github.com/redianmarku/tiktok-autouploader.git
